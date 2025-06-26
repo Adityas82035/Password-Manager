@@ -143,4 +143,4 @@ public class PasswordManager extends JFrame {
             new PasswordManager().setVisible(true);
         });
     }
-    }
+}
